@@ -16,7 +16,7 @@ const projects = [
     title: "Distracted Driver Detection",
     desc: "CNN-based classifier for 10 driver-behavior classes using transfer learning (ResNet50). F1: 0.87.",
     tags: ["Computer Vision", "TensorFlow", "CNN"],
-    link: "#"
+    link: "https://www.kaggle.com/code/crazycoder8789/distracted-driver-detection"
   },
   {
     title: "Twitter Sentiment Analysis",
@@ -30,7 +30,7 @@ const skills = [
   { name: "Python", level: 92 },
   { name: "TensorFlow / Keras", level: 84 },
   { name: "NLP", level: 80 },
-  { name: "convolutional neural network", level: 86 },
+  { name: "Convolutional Neural Network", level: 86 },
   { name: "SQL / MySQL", level: 75 },
   { name: "Tableau", level: 75 }
 ];
