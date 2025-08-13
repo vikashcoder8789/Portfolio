@@ -117,7 +117,7 @@ export default function Portfolio() {
 
           <div className="flex items-center gap-3">
             <a
-              href="https://drive.google.com/uc?export=download&id=14sRVSsVLMvtDwrXAJlDoyTilWMtg1k8o"
+              href="https://drive.google.com/uc?export=download&id=1bz0E-1oyoDnhgfrqlmWJFlvGDvzCe3dN"
               target="_blank"
               className="hidden md:inline-block bg-green-600 text-white px-4 py-2 rounded-lg text-sm shadow hover:scale-105 transform-gpu transition"
               rel="noopener noreferrer"
