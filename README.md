@@ -1,1 +1,1 @@
-https://vikash-ai-ml.netlify.app/
+https://datawithvikash.netlify.app
