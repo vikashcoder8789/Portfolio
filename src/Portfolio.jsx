@@ -7,6 +7,12 @@ import { motion, AnimatePresence } from "framer-motion";
 
 const projects = [
   {
+    title: "BhashaLink – Bridging Languages with AI",
+    desc: "Developed an AI-powered multilingual translation platform to overcome language barriers in India and globally. BhashaLink leverages Meta’s NLLB-200 model and provides real-time, accurate, and culturally relevant translations through a simple web interface.",
+    tags: ["Python", "Hugging Face Transformers", "NLLB-200", "Gradio", "Hugging Face Spaces"],
+    link: "https://huggingface.co/spaces/datawithvikash/BhashaLink"
+  },
+  {
     title: "Fake Job Post Detection",
     desc: "Built an ML model to detect fraudulent job postings. Tuned features and pipeline; reached 92% accuracy.",
     tags: ["ML Classification", "Python", "Scikit-learn"],
